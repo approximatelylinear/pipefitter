@@ -1,0 +1,15 @@
+*.csv
+*.pyc
+*.log
+*.json
+*.pickle
+*.pkl
+*.zip
+*.gz
+*.pdf
+*.xlsx
+*.sqlite3
+.ds_store
+.DS_STORE
+.DS_Store
+.svn
